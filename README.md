@@ -3,7 +3,7 @@
 This is my **personal portfolio website**, built using HTML, CSS, and JavaScript.  
 It highlights my skills, education, and projects as a software developer.
 
-🌐 Live Website: [https://prasannjitpanda.github.io/portfolio](https://prasannjitpanda.github.io/portfolio)
+🌐 Live Website: [ https://prasannjitpanda.github.io/my-portfolio/]( https://prasannjitpanda.github.io/my-portfolio/)
 
 ---
 
